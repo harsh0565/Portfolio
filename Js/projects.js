@@ -1,5 +1,11 @@
 const projects = [
   {
+    title: "FreshCart",
+    description: "FreshCart is a responsive and modern online grocery store designed to offer a smooth shopping experience with features like secure login, smart product search, seamless checkout, and integrated payment gateways. It includes an admin dashboard for managing products and orders, and is built with a scalable tech stack optimized for performance and mobile use.",
+    image: "./assets/projectImages/FreshCart.jpg",
+    link: "https://freshcart-red.vercel.app/"
+  },
+  {
     title: "Ecommerce Watch Store",
     description: "A fully responsive ecommerce platform built with the MERN stack (MongoDB, Express, React, Node.js). It features product listings, a shopping cart, and user authentication for a seamless shopping experience.",
     image: "./assets/projectImages/Ecommerce.jpg",
